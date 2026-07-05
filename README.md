@@ -1,2 +1,2 @@
-# zoey-j Data Engineering
+# Data Engineering
 A repository documenting my progress in learning Python and Data Engineering.
